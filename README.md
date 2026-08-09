@@ -25,7 +25,7 @@ and mobile-network signal data from CSV or JSON files.
 Python 3.8+ is recommended.
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/call-signal-tracker.git
+git clone https://github.com/es33s/call-signal-tracker.git
 cd call-signal-tracker
 pip install -r requirements.txt
 ```
