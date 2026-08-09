@@ -1,4 +1,4 @@
-# 📡 Call & Signal Tracker
+# Call & Signal Tracker
 
 A Python-based educational tool for analyzing **user-provided** call-log
 and mobile-network signal data from CSV or JSON files.
@@ -7,7 +7,7 @@ and mobile-network signal data from CSV or JSON files.
 > networks, locate devices, or collect data from other people's phones.
 > It only analyzes data that the user already has permission to analyze.
 
-## ✨ Features
+## Features
 
 - Import CSV and JSON datasets
 - View all records
@@ -20,22 +20,7 @@ and mobile-network signal data from CSV or JSON files.
 - Show summary statistics
 - Export analyzed data to CSV
 
-## 📁 Project Structure
-
-```text
-call-signal-tracker/
-├── call_signal_tracker.py
-├── data/
-│   └── sample_data.csv
-├── reports/
-│   └── .gitkeep
-├── .gitignore
-├── LICENSE
-├── README.md
-└── requirements.txt
-```
-
-## 🚀 Installation
+## Installation
 
 Python 3.8+ is recommended.
 
@@ -45,7 +30,7 @@ cd call-signal-tracker
 pip install -r requirements.txt
 ```
 
-## ▶️ Run
+## Run
 
 ```bash
 python call_signal_tracker.py
@@ -57,7 +42,7 @@ On some systems:
 python3 call_signal_tracker.py
 ```
 
-## 🧪 Try the included sample data
+## Try the included sample data
 
 Start the program:
 
@@ -109,7 +94,7 @@ For example:
 -100 dBm → weaker
 ```
 
-## 🛡️ Responsible Use
+## Responsible Use
 
 Use this project only with data you own or are explicitly authorized to
 analyze. Do not upload real phone numbers, private call logs, or sensitive
@@ -117,6 +102,6 @@ telecom information to a public repository.
 
 The included sample data is fictional.
 
-## 📜 License
+## License
 
 MIT License. See `LICENSE`.
