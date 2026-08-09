@@ -64,7 +64,7 @@ data/sample_data.csv
 
 The sample dataset contains fictional/test values only.
 
-## 📊 Expected CSV columns
+## Expected CSV columns
 
 The analyzer expects these columns:
 
